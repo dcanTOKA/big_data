@@ -1,0 +1,5 @@
+com\btk\kafka\Consumer.class
+com\btk\kafka\Producer.class
+com\btk\elasticsearch\ElasticSearch.class
+com\btk\mongodb\MongodbDB.class
+com\btk\spark\Spark.class
